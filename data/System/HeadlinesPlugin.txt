@@ -1,4 +1,4 @@
-%META:TOPICINFO{author="ProjectContributor" date="1234497345" format="1.1" version="$Rev$"}%
+%META:TOPICINFO{author="ProjectContributor" date="1407719367" format="1.1" version="1"}%
 <!--
    Contributions to this plugin are appreciated. Please update the plugin page
    at http://foswiki.org/Extensions/HeadlinesPlugin or raise bugs at http://foswiki.org/Tasks/WebHome
